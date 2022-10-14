@@ -1,0 +1,10 @@
+//Formulario
+
+*Le envio un estado a mi componenete "Form" desde mi archivo "App.js" por "Props"
+*Con destructuring obtengo el valor del estado que estoy pasandole a mi componenete "Form" desde "App"
+//
+*Ahora desde mi archivo "Form" me creo un ESTADO  para obtener el valor de mi "INPUT" 
+
+//
+*creo un componenete results que me muestre todos los resultados por pantalla.
+*Ahora le envio el estado "valueEmoji" a mi componenete "results" desde mi archivo "App.js" por "Props"

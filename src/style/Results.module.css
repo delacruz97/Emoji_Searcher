@@ -1,0 +1,6 @@
+.grid{
+
+    display: grid;
+    grid-template-columns: auto auto auto; 
+    padding: 20px; /* separacion de mis container emojin com mi "BUSCADOR INPUT" */
+}
